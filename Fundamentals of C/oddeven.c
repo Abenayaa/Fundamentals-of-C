@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 main() {
-	// your code goes here
 	int n;
 	printf ("Enter the number: ");
 	scanf ("%f",&n);
